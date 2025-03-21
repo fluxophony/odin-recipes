@@ -1,0 +1,21 @@
+/* STUPID CSS I HATE YOU */
+* {
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightgray;
+}
+
+.title {
+    font-size: 56px;
+    text-align: center;
+    color: navy;
+}
+
+.link {
+    font-size: 32px;
+    margin: 12px;
+    margin-bottom: 12px;
+    background-color: navy;
+    border: 4px solid navy;
+    color: bisque ;
+    text-align: center;
+}
