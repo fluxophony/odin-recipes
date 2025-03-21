@@ -1,0 +1,30 @@
+* {
+    font-family: Tahoma, Geneva, Verdana, sans-serif; 
+    background-color: lightgray;    
+}
+
+h1 {
+    text-align: center;
+    color: navy;
+    font-size: 56px;
+}
+
+h2 {
+    text-align: left;
+    color: navy;
+    font-size: 32px;
+}
+
+#home {
+    font-size: 24px;
+    margin: 8px;
+    margin-bottom: 8px;
+    background-color: navy;
+    border: 2px solid navy;
+    color: bisque ;
+    text-align: center;
+}
+
+.list {
+    font-size: 16px;
+}
