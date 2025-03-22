@@ -12,8 +12,8 @@
 
 .link {
     font-size: 32px;
-    margin: 24px;
+    margin: 64px;
     background-color: navy;
     color: bisque ;
-    text-align: center;
+    box-sizing: border-box;
 }
